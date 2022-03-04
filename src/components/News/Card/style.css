@@ -1,0 +1,18 @@
+
+.card-row-news {
+    padding: 6px;
+}
+
+.card-news {
+    margin: 6px;
+    padding: 10px;
+    border: 2px solid #151D3B;
+    background-color: beige;
+    border-radius: 6px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

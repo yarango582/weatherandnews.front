@@ -1,0 +1,8 @@
+
+.container-weather {
+    border: 1px solid rgb(173, 173, 173);
+    border-radius: 6px;
+    padding: 5px;
+    width: 350px;
+    height: 500px;
+}

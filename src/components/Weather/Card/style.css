@@ -1,0 +1,12 @@
+
+.card-row-weather {
+    display: flex;
+    justify-content: space-between;
+    border: 2px solid #151D3B;
+    border-radius: 6px;
+    padding: 5px;
+}
+
+ul {
+    list-style: none;
+}
